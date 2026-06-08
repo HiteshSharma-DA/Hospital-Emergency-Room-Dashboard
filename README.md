@@ -5,7 +5,7 @@ This Excel dashboard analyzes Emergency Room (ER) data and provides insights int
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Hospital ER  Dashboard Screenshot.png")
 
 ## Key KPIs
 
