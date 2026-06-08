@@ -4,7 +4,7 @@
 This Excel dashboard analyzes Emergency Room (ER) data and provides insights into patient flow, waiting times, satisfaction levels, and department referrals.
 
 ## Dashboard Preview
-("Hospital ER  Dashboard Screenshot.png")
+https://github.com/HiteshSharma-DA/Hospital-Emergency-Room-Dashboard/blob/8351defeb637b8b4da6af9cfa4ec655594e6b0e2/Excel%20Project/Hospital%20ER%20%20Dashboard%20Screenshot.png
 
 
 ## Key KPIs
